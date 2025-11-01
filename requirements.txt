@@ -16,5 +16,4 @@ virtualenv==20.35.3
 whitenoise==6.11.0
 django-jalali==4.0.0
 setuptools
-distutils
 psycopg2-binary>=2.9.9
